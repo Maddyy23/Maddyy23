@@ -9,7 +9,7 @@
 ## 👀 Profile Views
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Maddyy23&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
