@@ -98,7 +98,6 @@
 
 * FastAPI + SMTP (Gmail & AWS SES integration)
 
-👉 Add your GitHub project links here
 
 ---
 
