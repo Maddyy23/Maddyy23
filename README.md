@@ -22,7 +22,7 @@
 * 🗄️ Worked with **MySQL & Supabase**
 * 📧 Email backend using **SMTP (Gmail & AWS SES)**
 * ⚡ Strong in API development & backend logic
-* 🎮 Gamer + Beginner Streamer
+* 🎮 Gamer + Streamer
 
 ---
 
